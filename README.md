@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tasting-melancholy-in-kiss/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Tasting Melancholy In Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-melancholy-in-kiss/) |
+| **Get License** | [License this song: Tasting Melancholy In Kiss](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tasting-melancholy-in-kiss/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I trace the shadows dancing on your skin
+> Where the midnight ends and my thoughts begin
+> There's a quiet sorrow in the way you sigh
+> But I find my heaven when our lips collide
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
